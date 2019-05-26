@@ -1,4 +1,0 @@
-#Sun May 26 12:17:49 MSK 2019
-base.0=/home/mclvren/calc/calc/build-calc-Android_x86_Clang_Qt_5_12_3_for_Android_x86-Debug/android-build/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
