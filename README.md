@@ -1,1 +1,1 @@
-# calc
+# calc on qt widgets
